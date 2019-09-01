@@ -1,1 +1,1 @@
-print('hello world')  # 打印你好世界
+print('hello world')
