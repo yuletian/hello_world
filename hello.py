@@ -1,0 +1,1 @@
+print('hello world')  # 打印你好世界
